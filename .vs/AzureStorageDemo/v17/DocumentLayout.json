@@ -1,0 +1,304 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lab_services_student\\source\\repos\\AzureStorageDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1B133931-8C9D-40CE-A171-7D7B0EF31BE7}|AzureStorageDemo.csproj|c:\\users\\lab_services_student\\source\\repos\\azurestoragedemo\\services\\fileshareservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B133931-8C9D-40CE-A171-7D7B0EF31BE7}|AzureStorageDemo.csproj|solutionrelative:services\\fileshareservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B133931-8C9D-40CE-A171-7D7B0EF31BE7}|AzureStorageDemo.csproj|c:\\users\\lab_services_student\\source\\repos\\azurestoragedemo\\azurestoragedemo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1B133931-8C9D-40CE-A171-7D7B0EF31BE7}|AzureStorageDemo.csproj|solutionrelative:azurestoragedemo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B133931-8C9D-40CE-A171-7D7B0EF31BE7}|AzureStorageDemo.csproj|c:\\users\\lab_services_student\\source\\repos\\azurestoragedemo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1B133931-8C9D-40CE-A171-7D7B0EF31BE7}|AzureStorageDemo.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B133931-8C9D-40CE-A171-7D7B0EF31BE7}|AzureStorageDemo.csproj|c:\\users\\lab_services_student\\source\\repos\\azurestoragedemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B133931-8C9D-40CE-A171-7D7B0EF31BE7}|AzureStorageDemo.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B133931-8C9D-40CE-A171-7D7B0EF31BE7}|AzureStorageDemo.csproj|c:\\users\\lab_services_student\\source\\repos\\azurestoragedemo\\models\\customerentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B133931-8C9D-40CE-A171-7D7B0EF31BE7}|AzureStorageDemo.csproj|solutionrelative:models\\customerentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B133931-8C9D-40CE-A171-7D7B0EF31BE7}|AzureStorageDemo.csproj|c:\\users\\lab_services_student\\source\\repos\\azurestoragedemo\\controllers\\storagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B133931-8C9D-40CE-A171-7D7B0EF31BE7}|AzureStorageDemo.csproj|solutionrelative:controllers\\storagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B133931-8C9D-40CE-A171-7D7B0EF31BE7}|AzureStorageDemo.csproj|c:\\users\\lab_services_student\\source\\repos\\azurestoragedemo\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B133931-8C9D-40CE-A171-7D7B0EF31BE7}|AzureStorageDemo.csproj|solutionrelative:models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B133931-8C9D-40CE-A171-7D7B0EF31BE7}|AzureStorageDemo.csproj|c:\\users\\lab_services_student\\source\\repos\\azurestoragedemo\\services\\tablestorageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B133931-8C9D-40CE-A171-7D7B0EF31BE7}|AzureStorageDemo.csproj|solutionrelative:services\\tablestorageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B133931-8C9D-40CE-A171-7D7B0EF31BE7}|AzureStorageDemo.csproj|c:\\users\\lab_services_student\\source\\repos\\azurestoragedemo\\models\\productentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B133931-8C9D-40CE-A171-7D7B0EF31BE7}|AzureStorageDemo.csproj|solutionrelative:models\\productentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B133931-8C9D-40CE-A171-7D7B0EF31BE7}|AzureStorageDemo.csproj|c:\\users\\lab_services_student\\source\\repos\\azurestoragedemo\\views\\storage\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1B133931-8C9D-40CE-A171-7D7B0EF31BE7}|AzureStorageDemo.csproj|solutionrelative:views\\storage\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B133931-8C9D-40CE-A171-7D7B0EF31BE7}|AzureStorageDemo.csproj|c:\\users\\lab_services_student\\source\\repos\\azurestoragedemo\\services\\queuestorageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B133931-8C9D-40CE-A171-7D7B0EF31BE7}|AzureStorageDemo.csproj|solutionrelative:services\\queuestorageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B133931-8C9D-40CE-A171-7D7B0EF31BE7}|AzureStorageDemo.csproj|c:\\users\\lab_services_student\\source\\repos\\azurestoragedemo\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B133931-8C9D-40CE-A171-7D7B0EF31BE7}|AzureStorageDemo.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B133931-8C9D-40CE-A171-7D7B0EF31BE7}|AzureStorageDemo.csproj|c:\\users\\lab_services_student\\source\\repos\\azurestoragedemo\\models\\ordermessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B133931-8C9D-40CE-A171-7D7B0EF31BE7}|AzureStorageDemo.csproj|solutionrelative:models\\ordermessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B133931-8C9D-40CE-A171-7D7B0EF31BE7}|AzureStorageDemo.csproj|c:\\users\\lab_services_student\\source\\repos\\azurestoragedemo\\azurestoragedemo.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{1B133931-8C9D-40CE-A171-7D7B0EF31BE7}|AzureStorageDemo.csproj|solutionrelative:azurestoragedemo.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B133931-8C9D-40CE-A171-7D7B0EF31BE7}|AzureStorageDemo.csproj|c:\\users\\lab_services_student\\source\\repos\\azurestoragedemo\\services\\blobstorageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B133931-8C9D-40CE-A171-7D7B0EF31BE7}|AzureStorageDemo.csproj|solutionrelative:services\\blobstorageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B133931-8C9D-40CE-A171-7D7B0EF31BE7}|AzureStorageDemo.csproj|c:\\users\\lab_services_student\\source\\repos\\azurestoragedemo\\models\\storageindexviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B133931-8C9D-40CE-A171-7D7B0EF31BE7}|AzureStorageDemo.csproj|solutionrelative:models\\storageindexviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CustomerEntity.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\source\\repos\\AzureStorageDemo\\Models\\CustomerEntity.cs",
+              "RelativeDocumentMoniker": "Models\\CustomerEntity.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\source\\repos\\AzureStorageDemo\\Models\\CustomerEntity.cs",
+              "RelativeToolTip": "Models\\CustomerEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T09:06:18.418Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\source\\repos\\AzureStorageDemo\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\source\\repos\\AzureStorageDemo\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABMAAAAgAAAAAAATwBoAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T09:23:57.717Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\source\\repos\\AzureStorageDemo\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\lab_services_student\\source\\repos\\AzureStorageDemo\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAADbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-27T09:02:53.136Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AzureStorageDemo.csproj",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\source\\repos\\AzureStorageDemo\\AzureStorageDemo.csproj",
+              "RelativeDocumentMoniker": "AzureStorageDemo.csproj",
+              "ToolTip": "C:\\Users\\lab_services_student\\source\\repos\\AzureStorageDemo\\AzureStorageDemo.csproj",
+              "RelativeToolTip": "AzureStorageDemo.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-29T15:33:33.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FileShareService.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\source\\repos\\AzureStorageDemo\\Services\\FileShareService.cs",
+              "RelativeDocumentMoniker": "Services\\FileShareService.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\source\\repos\\AzureStorageDemo\\Services\\FileShareService.cs",
+              "RelativeToolTip": "Services\\FileShareService.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAUwFYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T09:23:35.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StorageController.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\source\\repos\\AzureStorageDemo\\Controllers\\StorageController.cs",
+              "RelativeDocumentMoniker": "Controllers\\StorageController.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\source\\repos\\AzureStorageDemo\\Controllers\\StorageController.cs",
+              "RelativeToolTip": "Controllers\\StorageController.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAUwDsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T09:25:46.126Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\source\\repos\\AzureStorageDemo\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\source\\repos\\AzureStorageDemo\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-31T19:16:59.462Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProductEntity.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\source\\repos\\AzureStorageDemo\\Models\\ProductEntity.cs",
+              "RelativeDocumentMoniker": "Models\\ProductEntity.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\source\\repos\\AzureStorageDemo\\Models\\ProductEntity.cs",
+              "RelativeToolTip": "Models\\ProductEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAcwBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T09:12:14.743Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\source\\repos\\AzureStorageDemo\\Views\\Storage\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Storage\\Index.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\source\\repos\\AzureStorageDemo\\Views\\Storage\\Index.cshtml",
+              "RelativeToolTip": "Views\\Storage\\Index.cshtml",
+              "ViewState": "AgIAAB0AAACAlpmZmRkYwCkAAABiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-27T09:32:04.218Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TableStorageService.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\source\\repos\\AzureStorageDemo\\Services\\TableStorageService.cs",
+              "RelativeDocumentMoniker": "Services\\TableStorageService.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\source\\repos\\AzureStorageDemo\\Services\\TableStorageService.cs",
+              "RelativeToolTip": "Services\\TableStorageService.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAADwvysAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T09:18:43.571Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "QueueStorageService.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\source\\repos\\AzureStorageDemo\\Services\\QueueStorageService.cs",
+              "RelativeDocumentMoniker": "Services\\QueueStorageService.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\source\\repos\\AzureStorageDemo\\Services\\QueueStorageService.cs",
+              "RelativeToolTip": "Services\\QueueStorageService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAgwBIAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T09:20:44.297Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\source\\repos\\AzureStorageDemo\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\source\\repos\\AzureStorageDemo\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-31T18:41:03.066Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "OrderMessage.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\source\\repos\\AzureStorageDemo\\Models\\OrderMessage.cs",
+              "RelativeDocumentMoniker": "Models\\OrderMessage.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\source\\repos\\AzureStorageDemo\\Models\\OrderMessage.cs",
+              "RelativeToolTip": "Models\\OrderMessage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T09:13:21.402Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "BlobStorageService.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\source\\repos\\AzureStorageDemo\\Services\\BlobStorageService.cs",
+              "RelativeDocumentMoniker": "Services\\BlobStorageService.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\source\\repos\\AzureStorageDemo\\Services\\BlobStorageService.cs",
+              "RelativeToolTip": "Services\\BlobStorageService.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAuwBEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T09:20:06.039Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AzureStorageDemo",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\source\\repos\\AzureStorageDemo\\AzureStorageDemo.csproj",
+              "RelativeDocumentMoniker": "AzureStorageDemo.csproj",
+              "ToolTip": "C:\\Users\\lab_services_student\\source\\repos\\AzureStorageDemo\\AzureStorageDemo.csproj",
+              "RelativeToolTip": "AzureStorageDemo.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-29T15:31:27.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "StorageIndexViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\source\\repos\\AzureStorageDemo\\Models\\StorageIndexViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\StorageIndexViewModel.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\source\\repos\\AzureStorageDemo\\Models\\StorageIndexViewModel.cs",
+              "RelativeToolTip": "Models\\StorageIndexViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T09:14:14.378Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 120,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
